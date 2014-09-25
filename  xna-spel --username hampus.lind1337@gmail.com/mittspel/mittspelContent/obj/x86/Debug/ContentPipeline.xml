@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-04-26T17:24:26.19703+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tank green .png</Source>
+      <Name>tank green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\tank green.xnb</Output>
+      <Time>2013-04-26T13:49:58.4989506+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tank red.png</Source>
+      <Name>tank red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\tank red.xnb</Output>
+      <Time>2013-04-26T13:49:59.1129858+02:00</Time>
+    </Item>
+    <Item>
+      <Source>arenaback.png</Source>
+      <Name>arenaback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\arenaback.xnb</Output>
+      <Time>2013-04-26T16:26:44.0794898+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hole.png</Source>
+      <Name>hole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\hole.xnb</Output>
+      <Time>2013-04-28T16:37:36.0769595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont2.spritefont</Source>
+      <Name>gamefont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\gamefont2.xnb</Output>
+      <Time>2013-04-26T18:21:37.1818131+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hole2.png</Source>
+      <Name>hole2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\hole2.xnb</Output>
+      <Time>2013-04-28T16:37:36.0769595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hole3.png</Source>
+      <Name>hole3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\hole3.xnb</Output>
+      <Time>2013-04-28T16:37:36.0769595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shot.png</Source>
+      <Name>shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\shot.xnb</Output>
+      <Time>2013-04-28T13:25:43.4446211+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shot2.png</Source>
+      <Name>shot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\shot2.xnb</Output>
+      <Time>2013-04-28T13:24:31.3364968+02:00</Time>
+    </Item>
+    <Item>
+      <Source>winscreeng.png</Source>
+      <Name>winscreeng</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\winscreeng.xnb</Output>
+      <Time>2013-04-27T18:47:02.6758384+02:00</Time>
+    </Item>
+    <Item>
+      <Source>winscreenr.png</Source>
+      <Name>winscreenr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\winscreenr.xnb</Output>
+      <Time>2013-04-27T18:48:54.8422539+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion-02.wav</Source>
+      <Name>explosion-02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\explosion-02.xnb</Output>
+      <Time>2013-04-27T22:55:57.1315723+02:00</Time>
+    </Item>
+    <Item>
+      <Source>C&amp;C Red alert 2 music (Fortification).mp3</Source>
+      <Name>C&amp;C Red alert 2 music (Fortification)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\C&amp;C Red alert 2 music (Fortification).xnb</Output>
+      <Extra>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\C&amp;C Red alert 2 music (Fortification).wma</Extra>
+      <Time>2013-04-26T17:16:52.9068809+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspelContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspelContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspel\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-04T14:41:03.9803975+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
