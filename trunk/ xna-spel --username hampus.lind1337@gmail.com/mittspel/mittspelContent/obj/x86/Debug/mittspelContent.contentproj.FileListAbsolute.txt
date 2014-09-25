@@ -1,0 +1,2 @@
+c:\users\hampus\documents\visual studio 2010\Projects\mittspel\mittspel\mittspelContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\mittspel\mittspel\mittspelContent\obj\x86\Debug\mittspelContent.contentprojResolveAssemblyReference.cache
